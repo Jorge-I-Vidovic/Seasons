@@ -22,7 +22,6 @@ boton.addEventListener('click', function () {
         } else {
             estacion = "Otoño";
         }
-
         resultado.innerHTML = 'La estación del año correspondiente a ' + fecha.toLocaleDateString() + ' es ' + estacion;
     }
 });
