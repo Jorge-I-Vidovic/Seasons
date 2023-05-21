@@ -21,10 +21,6 @@ body {
     margin-top: 8rem;
 }
 
-.contenido{
-    
-}
-
 .formulario{
     display: flex;
     flex-direction: column;
